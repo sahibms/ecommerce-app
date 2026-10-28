@@ -1,16 +1,67 @@
-# React + Vite
+# E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce frontend application built with React.js.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Browse and view products
+- Search products
+- Filter products by category
+- Sort products
+- Add and remove products from Favorites
+- Manage shopping cart
+- Navigate between pages using React Router
+- Responsive user interface
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- React Router
+- HTML5
+- CSS3
+- REST API
+- Fetch API
+- Local Storage
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://sahib-ecommerce-app.netlify.app/
+
+## GitHub Repository
+
+https://github.com/sahibms/ecommerce-app
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sahibms/ecommerce-app.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd ecommerce-app
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal to view the application.
+
+## Author
+
+MS Mohammed
+
+GitHub: https://github.com/sahibms
